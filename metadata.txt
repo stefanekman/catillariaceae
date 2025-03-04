@@ -1,67 +1,67 @@
-Taxa	Organism_alt	Organism
-Amandinea_punctata	Amandinea punctata	Amandinea punctata
-Anaptychia_ciliaris	Anaptychia ciliaris	Anaptychia ciliaris
-Brigantiaea_leucoxantha_1	Brigantiaea leucoxantha 1	Brigantiaea leucoxantha 2
-Brigantiaea_leucoxantha_2	Brigantiaea leucoxantha 2	Brigantiaea leucoxantha 1
-Catillaria_atomarioides_1	Catillaria atomarioides 1	Catillaria atomarioides 3
-Catillaria_atomarioides_2	Catillaria atomarioides 2	Catillaria atomarioides 2
-Catillaria_atomarioides_3	Catillaria atomarioides 3	Catillaria atomarioides 1
-Catillaria_chalybeia_1	Catillaria chalybeia 2	Catillaria chalybeia 4
-Catillaria_chalybeia_2	Catillaria chalybeia 5	Catillaria chalybeia 3
-Catillaria_chalybeia_3	Catillaria chalybeia 4	Catillaria chalybeia 1
-Catillaria_chalybeia_4	Catillaria chalybeia 1	Catillaria chalybeia 5
-Catillaria_chalybeia_5	Catillaria chalybeia 3	Catillaria chalybeia 2
-Catillaria_flexuosa	Catillaria flexuosa	Catillaria flexuosa
-Catillaria_fungoides	Catillaria fungoides	Catillaria fungoides
-Catillaria_nigroisidiata	Catillaria nigroisidiata	Catillaria nigroisidiata
-Catillaria_nubila_1	Catillaria nubila 1	Catillaria nubila 2
-Catillaria_nubila_2	Catillaria nubila 2	Catillaria nubila 1
-Catinaria_atropurpurea_1	Catinaria atropurpurea 2	Catinaria atropurpurea 1
-Catinaria_atropurpurea_2	Catinaria atropurpurea 1	Catinaria atropurpurea 2
-Catinaria_atropurpurea_3	Catinaria atropurpurea 3	Catinaria atropurpurea 3
-Halecania_abscondita_1	Halecania abscondita 1	Halecania abscondita 2
-Halecania_abscondita_2	Halecania abscondita 2	Halecania abscondita 1
-Halecania_alpivaga_1	Halecania alpivaga 1	Halecania alpivaga 2
-Halecania_alpivaga_2	Halecania alpivaga 2	Halecania alpivaga 1
-Halecania_viridescens_1	Halecaniella viridescens 3	Halecania viridescens 1
-Halecania_viridescens_2	Halecaniella viridescens 1	Halecania viridescens 3
-Halecania_viridescens_3	Halecaniella viridescens 2	Halecania viridescens 2
-Halecania_viridescens_4	Halecaniella viridescens 1	Halecania viridescens 4
-Lecidea_fuscoatra	Lecidea fuscoatra	Lecidea fuscoatra
-Leprocaulon_americanum	Leprocaulon americanum	Leprocaulon americanum
-Leprocaulon_beechingii	Leprocaulon beechingii	Leprocaulon beechingii
-Leprocaulon_knudsenii	Leprocaulon knudsenii	Leprocaulon knudsenii
-Leprocaulon_nicholsiae	Leprocaulon nicholsiae	Leprocaulon nicholsiae
-Leprocaulon_quisquiliare_1	Leprocaulon quisquiliare 1	Leprocaulon quisquiliare 2
-Leprocaulon_quisquiliare_2	Leprocaulon quisquiliare 2	Leprocaulon quisquiliare 3
-Leprocaulon_quisquiliare_3	Leprocaulon quisquiliare 3	Leprocaulon quisquiliare 1
-Leprocaulon_santamonicae	Leprocaulon santamonicae	Leprocaulon santamonicae
-Leprocaulon_terricola	Leprocaulon terricola	Leprocaulon terricola
-Microlecia_lenticularis_1	Microlecia lenticularis 1	Catillaria lenticularis 2
-Microlecia_lenticularis_2	Microlecia lenticularis 2	Catillaria lenticularis 1
-Microlecia_lenticularis_3	Microlecia lenticularis 3	Catillaria lenticularis 3
-Physcia_stellaris_1	Physcia stellaris 1	Physcia stellaris 2
-Physcia_stellaris_2	Physcia stellaris 2	Physcia stellaris 1
-Placolecis_kunmingensis	Placolecis kunmingensis	Placolecis kunmingensis
-Placolecis_opaca_1	Placolecis opaca 2	Placolecis opaca 2
-Placolecis_opaca_2	Placolecis opaca 1	Placolecis opaca 1
-Placolecis_sublaevis	Placolecis sublaevis	Placolecis sublaevis
-Porpidia_albocaerulescens_1	Porpidia albocaerulescens 1	Porpidia albocaerulescens 2
-Porpidia_albocaerulescens_2	Porpidia albocaerulescens 2	Porpidia albocaerulescens 1
-Pyxine_sorediata_1	Pyxine sorediata 1	Pyxine sorediata 2
-Pyxine_sorediata_2	Pyxine sorediata 2	Pyxine sorediata 1
-Rhizocarpon_geminatum	Rhizocarpon geminatum	Rhizocarpon geminatum
-Rhizocarpon_geographicum	Rhizocarpon geographicum	Rhizocarpon geographicum
-Rhizocarpon_oederi	Rhizocarpon oederi	Rhizocarpon oederi
-Solenopsora_candicans_1	Solenopsora candicans 2	Solenopsora candicans 3
-Solenopsora_candicans_2	Solenopsora candicans 1	Solenopsora candicans 2
-Solenopsora_candicans_3	Solenopsora candicans 3	Solenopsora candicans 1
-Solenopsora_cesatii	Solenopsora cesatii	Solenopsora cesatii
-Solenopsora_holophaea_1	Solenopsora holophaea 2	Solenopsora holophaea 1
-Solenopsora_holophaea_2	Solenopsora holophaea 1	Solenopsora holophaea 2
-Solenopsora_marina	Solenopsora marina	Solenopsora marina
-Solenopsora_olivacea	Solenopsora olivacea	Solenopsora olivacea
-Speerschneidera_euploca	Speerschneidera euploca	Speerschneidera euploca
-Xanthocarpia_feracissima	Xanthocarpia feracissima	Xanthocarpia feracissima
-Xanthocarpia_ochracea	Xanthocarpia ochracea	Xanthocarpia ochracea
-Xanthoria_parietina	Xanthoria parietina	Xanthoria parietina
+Taxa	Organism
+Amandinea_punctata	Amandinea punctata
+Anaptychia_ciliaris	Anaptychia ciliaris
+Brigantiaea_leucoxantha_1	Brigantiaea leucoxantha 2
+Brigantiaea_leucoxantha_2	Brigantiaea leucoxantha 1
+Catillaria_atomarioides_1	Catillaria atomarioides 3
+Catillaria_atomarioides_2	Catillaria atomarioides 2
+Catillaria_atomarioides_3	Catillaria atomarioides 1
+Catillaria_chalybeia_1	Catillaria chalybeia 4
+Catillaria_chalybeia_2	Catillaria chalybeia 3
+Catillaria_chalybeia_3	Catillaria chalybeia 1
+Catillaria_chalybeia_4	Catillaria chalybeia 5
+Catillaria_chalybeia_5	Catillaria chalybeia 2
+Catillaria_flexuosa	Catillaria flexuosa
+Catillaria_fungoides	Catillaria fungoides
+Catillaria_nigroisidiata	Catillaria nigroisidiata
+Catillaria_nubila_1	Catillaria nubila 2
+Catillaria_nubila_2	Catillaria nubila 1
+Catinaria_atropurpurea_1	Catinaria atropurpurea 1
+Catinaria_atropurpurea_2	Catinaria atropurpurea 2
+Catinaria_atropurpurea_3	Catinaria atropurpurea 3
+Halecania_abscondita_1	Halecania abscondita 2
+Halecania_abscondita_2	Halecania abscondita 1
+Halecania_alpivaga_1	Halecania alpivaga 2
+Halecania_alpivaga_2	Halecania alpivaga 1
+Halecania_viridescens_1	Halecania viridescens 1
+Halecania_viridescens_2	Halecania viridescens 3
+Halecania_viridescens_3	Halecania viridescens 2
+Halecania_viridescens_4	Halecania viridescens 4
+Lecidea_fuscoatra	Lecidea fuscoatra
+Leprocaulon_americanum	Leprocaulon americanum
+Leprocaulon_beechingii	Leprocaulon beechingii
+Leprocaulon_knudsenii	Leprocaulon knudsenii
+Leprocaulon_nicholsiae	Leprocaulon nicholsiae
+Leprocaulon_quisquiliare_1	Leprocaulon quisquiliare 2
+Leprocaulon_quisquiliare_2	Leprocaulon quisquiliare 3
+Leprocaulon_quisquiliare_3	Leprocaulon quisquiliare 1
+Leprocaulon_santamonicae	Leprocaulon santamonicae
+Leprocaulon_terricola	Leprocaulon terricola
+Microlecia_lenticularis_1	Catillaria lenticularis 2
+Microlecia_lenticularis_2	Catillaria lenticularis 1
+Microlecia_lenticularis_3	Catillaria lenticularis 3
+Physcia_stellaris_1	Physcia stellaris 2
+Physcia_stellaris_2	Physcia stellaris 1
+Placolecis_kunmingensis	Placolecis kunmingensis
+Placolecis_opaca_1	Placolecis opaca 2
+Placolecis_opaca_2	Placolecis opaca 1
+Placolecis_sublaevis	Placolecis sublaevis
+Porpidia_albocaerulescens_1	Porpidia albocaerulescens 2
+Porpidia_albocaerulescens_2	Porpidia albocaerulescens 1
+Pyxine_sorediata_1	Pyxine sorediata 2
+Pyxine_sorediata_2	Pyxine sorediata 1
+Rhizocarpon_geminatum	Rhizocarpon geminatum
+Rhizocarpon_geographicum	Rhizocarpon geographicum
+Rhizocarpon_oederi	Rhizocarpon oederi
+Solenopsora_candicans_1	Solenopsora candicans 3
+Solenopsora_candicans_2	Solenopsora candicans 2
+Solenopsora_candicans_3	Solenopsora candicans 1
+Solenopsora_cesatii	Solenopsora cesatii
+Solenopsora_holophaea_1	Solenopsora holophaea 1
+Solenopsora_holophaea_2	Solenopsora holophaea 2
+Solenopsora_marina	Solenopsora marina
+Solenopsora_olivacea	Solenopsora olivacea
+Speerschneidera_euploca	Speerschneidera euploca
+Xanthocarpia_feracissima	Xanthocarpia feracissima
+Xanthocarpia_ochracea	Xanthocarpia ochracea
+Xanthoria_parietina	Xanthoria parietina

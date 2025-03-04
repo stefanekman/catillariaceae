@@ -1,0 +1,17 @@
+#nexus
+begin sets;
+charset ITS1 = 1-273;
+charset 58S = 274-447;
+charset ITS2 = 448-646;
+charset RPB2_1 = 647-1144\3;
+charset RPB2_2 = 648-1144\3;
+charset RPB2_3 = 649-1144\3;
+charset KLP7_1 = 1145-1900\3;
+charset KLP7_2 = 1146-1900\3;
+charset KLP7_3 = 1147-1900\3;
+charset TEF3_1 = 1901-2936\3;
+charset TEF3_2 = 1902-2936\3;
+charset TEF3_3 = 1903-2936\3;
+charset LSU = 2937-3819;
+charset mrSSU = 3820-4934;
+end;

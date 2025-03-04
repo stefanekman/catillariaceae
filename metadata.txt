@@ -1,4 +1,4 @@
-Taxa	Organism
+Taxon	Organism
 Amandinea_punctata	Amandinea punctata
 Anaptychia_ciliaris	Anaptychia ciliaris
 Brigantiaea_leucoxantha_1	Brigantiaea leucoxantha 2
